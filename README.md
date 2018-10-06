@@ -8,3 +8,13 @@ Starting out with open source always seems as a hard thing. I am making it open 
 Fork the project and submit a pull request even if it just means documenting.
 
 [Check my tweet to see how it functions](https://twitter.com/ngenge_senior/status/1048375914692796416)
+
+## Screens
+
+### ABC Fragment
+
+![ABC Fragment](https://github.com/ngengesenior/SmartKid/blob/master/abc.jpeg)
+
+### Fruits Fragment
+
+![Fruits Fragment](https://github.com/ngengesenior/SmartKid/blob/master/fruits.jpeg)
