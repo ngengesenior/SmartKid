@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">SmartKid</string>
+    <string name="fruits">Fruits</string>
+    <string name="letters">Letters</string>
+    <string name="next">Next</string>
+
+    <string-array name="fruits">
+        <item>apple</item>
+        <item>banana</item>
+        <item>blackberry</item>
+        <item>coconut</item>
+        <item>cucumber</item>
+        <item>grapefruit</item>
+        <item>guava</item>
+        <item>mango</item>
+        <item>orange</item>
+        <item>papaya</item>
+        <item>pear</item>
+        <item>pineapple</item>
+        <item>plantain</item>
+        <item>plum</item>
+        <item>soursop</item>
+        <item>strawberry</item>
+        <item>tangerine</item>
+        <item>tomato</item>
+        <item>watermelon</item>
+    </string-array>
+
+    <string-array name="letters">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+        <item>i</item>
+        <item>j</item>
+        <item>k</item>
+        <item>l</item>
+        <item>m</item>
+        <item>n</item>
+        <item>o</item>
+        <item>p</item>
+        <item>q</item>
+        <item>r</item>
+        <item>s</item>
+        <item>t</item>
+        <item>u</item>
+        <item>v</item>
+        <item>w</item>
+        <item>x</item>
+        <item>y</item>
+        <item>z</item>
+    </string-array>
+</resources>
